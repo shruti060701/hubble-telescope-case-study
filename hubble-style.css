@@ -143,7 +143,7 @@
         font-size: var(--text-80);
     }
     .hero-banner {
-        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(https://res.cloudinary.com/mrarthor/image/upload/v1705844383/shruistic/hubble-space-telescope/blob-lines_eiwfgn.png) no-repeat;
+        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(blob-lines.png) no-repeat;
         background-size: cover;
     }
     .responsive-screens {
