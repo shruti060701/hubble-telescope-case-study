@@ -143,7 +143,7 @@
         font-size: var(--text-80);
     }
     .hero-banner {
-        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(images/blob-lines.png) no-repeat;
+        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(https://res.cloudinary.com/mrarthor/image/upload/v1705844383/shruistic/hubble-space-telescope/blob-lines_eiwfgn.png) no-repeat;
         background-size: cover;
     }
     .responsive-screens {
@@ -155,11 +155,11 @@
         width: 170px;
     }
     .on-light-bg {
-        background: url(images/on-light-bg.png) no-repeat, linear-gradient(rgba(255, 255, 255, 1.0), rgba(255, 255, 255, 1.0));
+        background: url(https://res.cloudinary.com/mrarthor/image/upload/v1705839805/shruistic/hubble-space-telescope/on-light-bg_va4kdp.png) no-repeat, linear-gradient(rgba(255, 255, 255, 1.0), rgba(255, 255, 255, 1.0));
         background-size: cover;
     }
     .on-dark-bg {
-        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(images/on-dark-bg.png) no-repeat;
+        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(https://res.cloudinary.com/mrarthor/image/upload/v1705839804/shruistic/hubble-space-telescope/on-dark-bg_l3cmdi.png) no-repeat;
         background-size: cover;
     }
     .role-row-bg {
@@ -272,7 +272,7 @@
         padding: 12px 24px;
     }
     .desktop-video-bg {
-        background: url(images/desktop-bg.png) no-repeat;
+        background: url(https://res.cloudinary.com/mrarthor/image/upload/v1705839800/shruistic/hubble-space-telescope/desktop-bg_i76sdj.png) no-repeat;
         background-size: cover;
         width: 733.45px;
         height: 420px;
@@ -381,7 +381,7 @@
         display: none;
     }
     .what-i-learned-bg {
-        background: linear-gradient(to right, rgba(21, 22, 22, 1.0), rgba(21, 22, 22, 0.8)), url(images/what-i-learned-bg.png) no-repeat 100% 50%;
+        background: linear-gradient(to right, rgba(21, 22, 22, 1.0), rgba(21, 22, 22, 0.8)), url(https://res.cloudinary.com/mrarthor/image/upload/v1705839822/shruistic/hubble-space-telescope/what-i-learned-bg_cfwhnt.png) no-repeat 100% 50%;
     }
     .pen-row-bg {
         height: 180px;
@@ -496,7 +496,7 @@
         font-size: var(--text-80);
     }
     .hero-banner {
-        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(images/blob-lines.png) no-repeat;
+        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(https://res.cloudinary.com/mrarthor/image/upload/v1705839800/shruistic/hubble-space-telescope/blob-lines_dbw0nw.png) no-repeat;
         background-size: cover;
     }
     .responsive-screens {
@@ -508,11 +508,11 @@
         width: 130px;
     }
     .on-light-bg {
-        background: url(images/on-light-bg.png) no-repeat 50% 50%, linear-gradient(rgba(255, 255, 255, 1.0), rgba(255, 255, 255, 1.0));
+        background: url(https://res.cloudinary.com/mrarthor/image/upload/v1705839805/shruistic/hubble-space-telescope/on-light-bg_va4kdp.png) no-repeat 50% 50%, linear-gradient(rgba(255, 255, 255, 1.0), rgba(255, 255, 255, 1.0));
         background-size: cover;
     }
     .on-dark-bg {
-        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(images/on-dark-bg.png) no-repeat;
+        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(https://res.cloudinary.com/mrarthor/image/upload/v1705839804/shruistic/hubble-space-telescope/on-dark-bg_l3cmdi.png) no-repeat;
         background-size: cover;
     }
     .role-row-bg {
@@ -626,7 +626,7 @@
         padding: 8px 16px;
     }
     .desktop-video-bg {
-        background: url(images/desktop-bg.png) no-repeat;
+        background: url(https://res.cloudinary.com/mrarthor/image/upload/v1705839800/shruistic/hubble-space-telescope/desktop-bg_i76sdj.png) no-repeat;
         background-size: cover;
         width: 320px;
         height: 183.24px;
