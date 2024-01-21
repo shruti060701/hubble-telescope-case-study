@@ -141,10 +141,14 @@
     }
     .text-desk-80 {
         font-size: var(--text-80);
+        /* line-height: 0px; */
     }
     .hero-banner {
-        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(blob-lines.png) no-repeat;
+        background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(https://res.cloudinary.com/mrarthor/image/upload/v1705844383/shruistic/hubble-space-telescope/blob-lines_eiwfgn.png) no-repeat;
         background-size: cover;
+    }
+    .hubble-heading {
+        line-height: 0px;
     }
     .responsive-screens {
         height: 417.27px;
@@ -498,6 +502,9 @@
     .hero-banner {
         background: linear-gradient(rgba(21, 22, 22, 0.6), rgba(21, 22, 22, 0.6)), url(https://res.cloudinary.com/mrarthor/image/upload/v1705839800/shruistic/hubble-space-telescope/blob-lines_dbw0nw.png) no-repeat;
         background-size: cover;
+    }
+    .hubble-heading {
+        line-height: normal;
     }
     .responsive-screens {
         height: 200px;
